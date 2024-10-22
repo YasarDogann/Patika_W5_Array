@@ -1,0 +1,14 @@
+C:\Users\yasar\source\repos\Patika+\Week5\patika_w5_Array\patika_w5_Array\bin\Debug\net8.0\patika_w5_Array.exe
+C:\Users\yasar\source\repos\Patika+\Week5\patika_w5_Array\patika_w5_Array\bin\Debug\net8.0\patika_w5_Array.deps.json
+C:\Users\yasar\source\repos\Patika+\Week5\patika_w5_Array\patika_w5_Array\bin\Debug\net8.0\patika_w5_Array.runtimeconfig.json
+C:\Users\yasar\source\repos\Patika+\Week5\patika_w5_Array\patika_w5_Array\bin\Debug\net8.0\patika_w5_Array.dll
+C:\Users\yasar\source\repos\Patika+\Week5\patika_w5_Array\patika_w5_Array\bin\Debug\net8.0\patika_w5_Array.pdb
+C:\Users\yasar\source\repos\Patika+\Week5\patika_w5_Array\patika_w5_Array\obj\Debug\net8.0\patika_w5_Array.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\yasar\source\repos\Patika+\Week5\patika_w5_Array\patika_w5_Array\obj\Debug\net8.0\patika_w5_Array.AssemblyInfoInputs.cache
+C:\Users\yasar\source\repos\Patika+\Week5\patika_w5_Array\patika_w5_Array\obj\Debug\net8.0\patika_w5_Array.AssemblyInfo.cs
+C:\Users\yasar\source\repos\Patika+\Week5\patika_w5_Array\patika_w5_Array\obj\Debug\net8.0\patika_w5_Array.csproj.CoreCompileInputs.cache
+C:\Users\yasar\source\repos\Patika+\Week5\patika_w5_Array\patika_w5_Array\obj\Debug\net8.0\patika_w5_Array.dll
+C:\Users\yasar\source\repos\Patika+\Week5\patika_w5_Array\patika_w5_Array\obj\Debug\net8.0\refint\patika_w5_Array.dll
+C:\Users\yasar\source\repos\Patika+\Week5\patika_w5_Array\patika_w5_Array\obj\Debug\net8.0\patika_w5_Array.pdb
+C:\Users\yasar\source\repos\Patika+\Week5\patika_w5_Array\patika_w5_Array\obj\Debug\net8.0\patika_w5_Array.genruntimeconfig.cache
+C:\Users\yasar\source\repos\Patika+\Week5\patika_w5_Array\patika_w5_Array\obj\Debug\net8.0\ref\patika_w5_Array.dll
